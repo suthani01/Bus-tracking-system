@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74354616379",
+    "project_id": "sclbustrack",
+    "storage_bucket": "sclbustrack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74354616379:android:5ee8f1447c3a57bc1bd41e",
+        "android_client_info": {
+          "package_name": "com.aaddev.my_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74354616379-maqnq3qu83n0tv3p23tuosvv8vpgj5gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP9-AnTNS3GskwVDjLrmXfwf7C2gdP-ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74354616379-maqnq3qu83n0tv3p23tuosvv8vpgj5gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
